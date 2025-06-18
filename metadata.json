@@ -1,0 +1,6 @@
+
+{
+  "name": "AI Chat Bot",
+  "description": "A simple AI powered chat bot using the Gemini API and React.",
+  "requestFramePermissions": []
+}
